@@ -52,6 +52,7 @@ backend/
 └── lunch_decider/      → settings, urls
 
 ---
+```
 
 ## Запуск системи
 
