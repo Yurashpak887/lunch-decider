@@ -51,7 +51,7 @@ backend/
 
 ```bash
 # 1. Клонувати проєкт
-git clone <your-repo>
+git clone https://github.com/Yurashpak887/lunch-decider
 cd lunch_decider
 
 # 2. Запустити Docker
